@@ -44,7 +44,7 @@ Users may download and directly call the 3 demo.py files in the src folder to vi
 #### A default simulated data sets is given and a default real world data set (Hitters: 
 https://raw.githubusercontent.com/selva86/datasets/master/Hitters.csv) is given.
 
-#### Users may use default parameters and view the process directly or may self-tune parameters such as lambda, #### max iteration numbers and the coefficients used for simulating data sets. Please follow the instructions in #### the demo files and change the '__main__' function code accordinly. 
+#### Users may use default parameters and view the process directly or may self-tune parameters such as lambda, max iteration numbers and the coefficients used for simulating data sets. Please follow the instructions in the demo files and change the '__main__' function code accordinly. 
 
 * Example 1 (demo_real_world_data.py):
 if __name__=='__main__':
