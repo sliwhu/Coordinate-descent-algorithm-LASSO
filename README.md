@@ -15,11 +15,11 @@
 
   LASSO loss function: 
 
-  ![alt text](Coordinate-descent-algorithm-LASSO/img/LASSO.jpg)
+  ![alt text](https://github.com/sliwhu/Coordinate-descent-algorithm-LASSO/blob/master/img/LASSO.jpg)
 
   Coordinate descent algorithm:
   
-  ![alt text](Coordinate-descent-algorithm-LASSO/img/algorithm.jpg)
+  ![alt text](https://github.com/sliwhu/Coordinate-descent-algorithm-LASSO/blob/master/img/algorithm.jpg)
 
 ### Organization of the project
 
