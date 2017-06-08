@@ -29,7 +29,7 @@ Coordinate-descent-algorithm-LASSO/
      |- demo_simulated_data.py
      |- demo_real_world_data.py
      |- demo_real_world_data.py
-  |- src/
+  |- img/
      |- LASSO.jpg
      |- algorithm.jpg
 ```
